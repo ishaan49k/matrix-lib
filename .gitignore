@@ -1,0 +1,6 @@
+# Ignore compiled binaries
+build/
+*.o
+*.a
+*.so
+
